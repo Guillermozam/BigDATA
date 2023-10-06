@@ -1,2 +1,0 @@
-Soluciones_Ejersicios/data/stocks_price_final.csv
-Soluciones_Ejersicios/data/WorldCupPlayers.csv
